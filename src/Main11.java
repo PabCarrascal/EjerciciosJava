@@ -9,6 +9,18 @@ import java.util.Scanner;
  * v=4/3*pi*r3
  */
 public class Main11 {
+    /**
+     * Explicación:
+     *
+     * En este ejercicio vamos a obtener un número positivo que usaremos como radio,
+     * y con el cuál vamos a calcular el resto de variables.
+     *
+     * Usaremos la clase de Java ya definida llamda Math, que tiene todas las funciones
+     * matemáticas y valores.
+     *
+     * Usaremos Math.PI para el valor constante de PI y Math.pow(número, elevadoA) para
+     * las potencias
+     */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 

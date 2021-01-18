@@ -5,6 +5,13 @@ import java.util.Scanner;
  * nulo.
  */
 public class Main12 {
+    /**
+     * Explicación:
+     *
+     * En este ejercicio vamos a recibir un número por teclado, y tenemos que comprobar
+     * si es mayor que cero (positivo), menor que cero (negativo) o nulo (igual a 0).
+     * Las comprobaciones se harán con IF y en cada caso mostraremos la información respectivamente.
+     */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
