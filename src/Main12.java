@@ -12,7 +12,16 @@ public class Main12 {
         int numero = 0;
 
         // Pedimos un número por teclado
-        System.out.print("Introduce un número");
+        System.out.print("Introduce un número: ");
         numero = scanner.nextInt();
+
+        // Comprobamos si es positivo, negativo o nulo
+        if (numero > 0) {
+            System.out.println("El número " + numero + " es positivo.");
+        } else if (numero < 0 ) {
+            System.out.println("El número " + numero + " es negativo.");
+        } else {
+            System.out.println("El número " + numero + " es nulo.");
+        }
     }
 }
