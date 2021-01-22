@@ -1,3 +1,5 @@
+package actividadesIntermedias;
+
 import java.util.Scanner;
 
 /**

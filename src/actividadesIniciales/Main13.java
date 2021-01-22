@@ -1,3 +1,5 @@
+package actividadesIniciales;
+
 /**
  * 13.- Construir un algoritmo para calcular y escribir la suma de los 100 primeros números
  * naturales. Utiliza la estructura REPETIR.

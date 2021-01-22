@@ -1,3 +1,5 @@
+package actividadesIntermedias;
+
 /**
  *29.- Realizar un programa en lenguaje Java para resolver un proceso que calcule y muestre el valor de la siguiente
  * serie o suma:

@@ -1,3 +1,5 @@
+package actividadesIniciales;
+
 /**
  * 14.- Construir un algoritmo para sumar independientemente los números pares y los impares
  * comprendidos entre 1 y 100. Visualizar los resultados. Utilizar la estructura MIENTRAS.

@@ -1,3 +1,5 @@
+package actividadesConFunciones;
+
 import java.util.Scanner;
 
 /**

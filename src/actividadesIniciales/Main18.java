@@ -1,3 +1,5 @@
+package actividadesIniciales;
+
 import java.util.Scanner;
 
 /**
