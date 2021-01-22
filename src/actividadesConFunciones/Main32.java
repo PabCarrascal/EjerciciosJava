@@ -8,6 +8,16 @@ import java.util.Scanner;
  * principal para comprobar que la función trabaja correctamente.
  */
 public class Main32 {
+    /**
+     * Explicación:
+     *
+     * En este ejercicio tenemos que comprobar cuál es el mayor número de unos dados.
+     * Para ello, tendremos que pedir por teclado todos los números y luego llamar a la función
+     * que nos analiza cuál es mayor.
+     *
+     * Esta función recibe los números por parámetro y realizamos comprobaciones entre ellos.
+     * Cuando tengamos cuál es el mayor, se devuelve y se imprime la información por consola.
+     */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
