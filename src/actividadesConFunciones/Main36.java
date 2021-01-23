@@ -55,13 +55,14 @@ public class Main36 {
     }
 
     private static boolean esPrimo(int numero) {
+        if (numero % 2 == 0) {
+            return false;
+        }
         int contador = 2;
-        boolean primo=true;
-        while ((primo) && (contador!=numero)){
-            if (contador % 2 != 0) {
-                if (numero % contador == 0) {
-                    primo = false;
-                }
+        boolean primo = true;
+        while ((primo) && (contador != numero)) {
+            if (numero % contador == 0) {
+                primo = false;
             }
             contador++;
         }
